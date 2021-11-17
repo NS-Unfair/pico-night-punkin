@@ -1,4 +1,4 @@
-# To get the source code, you'll have to download #immo_alien
+# To get the source code for the engine, you'll have to download #immo_alien
 
 # Pico Night Punkin'
 A [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) Demake made in PICO-8 for Pico Day 2021
