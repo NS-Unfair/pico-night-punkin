@@ -16,6 +16,8 @@ This engine was going to be used for a Immortal Mod in PNP, but I decided FNF Ps
 
 # Modding Info
 If you want to mod the game, it was made to be pretty straight forward. However, spritesheet editing/optimization will be a pain and require you to change a lot of hardcoded draw calls if you move things around. (Obviously PICO-8 is required and so is basic knowledge of it & Lua)
+
+*READ THE WIKI BEFORE YOU START MODDING*
  
  Here's a brief run-down of each cart:
 - fnf-menu is the primary cart, this is where the game starts, and only contains the splash text/title screen
