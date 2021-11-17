@@ -104,3 +104,7 @@ And post it to the BBS under the Pico Night Punkin' forum post: https://www.lexa
 
 # Other info
 You can find other pieces of info in the wiki!
+
+# Known Bugs
+XOff doesn't work for notes
+Lane also doesn't work for notes
