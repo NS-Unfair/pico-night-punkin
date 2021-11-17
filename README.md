@@ -1,3 +1,5 @@
+# This isn't ready for use yet! Don't use this template until this message is gone!
+
 # Pico Night Punkin'
 A [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) Demake made in PICO-8 for Pico Day 2021
 by [Carson Kompon](https://twitter.com/CarsonKompon) and [Chris West](https://twitter.com/blstrManx)
@@ -7,6 +9,10 @@ Newgrounds: https://www.newgrounds.com/portal/view/791887
 Itch: https://carsonk.itch.io/pico-night-punkin
 
 Lexaloffle BBS: https://www.lexaloffle.com/bbs/?tid=42715
+
+#PNP ImmoEngine Port
+
+This engine was going to be used for a Immortal Mod in PNP, but I decided FNF PsychEngine was better for creating the mod I wanted to make.
 
 # Modding Info
 If you want to mod the game, it was made to be pretty straight forward. However, spritesheet editing/optimization will be a pain and require you to change a lot of hardcoded draw calls if you move things around. (Obviously PICO-8 is required and so is basic knowledge of it & Lua)
@@ -93,3 +99,6 @@ If you've made a mod of Pico Night Punkin', post it!
 Tweet us [@CarsonKompon](https://twitter.com/CarsonKompon) & [@blstrManx](https://twitter.com/blstrManx)
 
 And post it to the BBS under the Pico Night Punkin' forum post: https://www.lexaloffle.com/bbs/?tid=42715
+
+# Other info
+You can find other pieces of info in the wiki!
