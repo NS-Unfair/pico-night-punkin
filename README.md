@@ -1,4 +1,4 @@
-# This isn't ready for use yet! Don't use this template until this message is gone!
+# To get the source code, you'll have to download #immo_alien
 
 # Pico Night Punkin'
 A [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) Demake made in PICO-8 for Pico Day 2021
